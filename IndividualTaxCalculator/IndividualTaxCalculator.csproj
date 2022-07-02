@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Entity\" />
+    <Folder Include="Infra\TaxRules\" />
     <Folder Include="Interface\" />
-    <Folder Include="Infra\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

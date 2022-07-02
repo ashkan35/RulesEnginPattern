@@ -4,5 +4,5 @@ namespace IndividualTaxCalculator.Interface;
 
 public interface ITaxRule
 { 
-    TaxPayer CalculateTaxRule(TaxPayer taxPayer);
+    TaxPayer CalculateTaxPercentage(TaxPayer taxPayer);
 }
